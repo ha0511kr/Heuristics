@@ -1,0 +1,6 @@
+ implement and compare some simple Hex heuristics:
+
+* van Risjwijck's 2-distance
+* 2-dist + miai
+* miai-distance
+* mcts with any of these
